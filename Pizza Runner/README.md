@@ -8,7 +8,7 @@ Danny is expanding his new Pizza Empire and at the same time he wants to Uberize
 
 Danny is very aware that data collection was going to be critical for his business’ growth.
 
-Given the collected data, Danny want:
+Given the collected data, Danny wants:
 -  assistance to clean the data
 -  apply some basic calculations
 
